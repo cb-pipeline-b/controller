@@ -1,0 +1,4 @@
+variables:
+- team: cb-pipeline-b
+- admin-user: cwroble-admin
+- manager-user: cwroble
